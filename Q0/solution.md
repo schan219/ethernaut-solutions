@@ -7,3 +7,5 @@
 7. `await contract.method7123949()`
 8. `await contract.password()`
 9. `contract.authenticate("ethernaut0")`
+
+Note: Only the 9th instruction is required to solve this problem.
