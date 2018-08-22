@@ -1,0 +1,1 @@
+`await contract.transfer(contract.address, 21)`
